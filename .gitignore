@@ -12,6 +12,8 @@
 #自定义的忽略文件
 QWEN.md
 *.txt
+*.sh
+
 
 # Build directories
 build/
